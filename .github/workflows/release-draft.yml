@@ -16,7 +16,7 @@ permissions:
   contents: write
 
 env:
-  ASSET_FILENAME: "helpers.zip"
+  ASSET_FILENAME: "state_anim_sync.zip"
 
 jobs:
   create-draft-release:
